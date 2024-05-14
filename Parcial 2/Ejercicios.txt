@@ -1,0 +1,25 @@
+Ejercicio 1
+
+* Primero, creamos una base de datos llamada ejemplo_db. 
+* Luego, creamos un usuario llamado usuario_ejemplo y le asignamos todos los privilegios sobre la base de datos ejemplo_db. 
+* Ahora, creamos una tabla llamada empleados dentro de la base de datos ejemplo_db. Esta tabla tendra tres columnas: id, nombre, y salario. 
+* Finalmente, creamos un indice en la columna nombre de la tabla empleados para mejorar el rendimiento de las consultas que buscan por nombre. 
+
+Ejercicio 2
+
+* Primero, creamos una tabla Product que representa productos en una tienda. Esta tabla tiene dos columnas: category y id, ambas son parte de la clave primaria.
+* Luego, creamos una tabla Customer que representa a los clientes. Esta tabla tiene una columna id que es la clave primaria.
+* Finalmente, creamos una tabla ProductOrder que representa ordenes de productos. Esta tabla tiene cuatro columnas: no, product_category, product_id, y customer_id. La columna no es la clave primaria. Ademas, esta tabla tiene dos claves foraneas que hacen referencia a las tablas Product y Customer.
+
+Ejercicio 3
+* Primero, creamos una tabla Department que representa departamentos en una organizacion. Esta tabla tiene dos columnas: id y name, ambas son parte de la clave primaria.
+* Luego, creamos una tabla Employee que representa a los empleados. Esta tabla tiene una columna id que es la clave primaria y una columna department_id que hace referencia a la tabla Department.
+* Finalmente, creamos una tabla ProductOrder que representa ordenes de productos. Esta tabla tiene cuatro columnas: no, product_category, product_id, y customer_id. La columna no es la clave primaria. Ademas, esta tabla tiene dos claves foraneas que hacen referencia a las tablas Product y Customer.
+
+Ejercicio 4
+*  Esto en la base de datos organizacion. 
+* Primero, vamos a crear dos roles: readapp y writeapp. El rol readapp tendra privilegios de lectura, mientras que writeapp tendra privilegios de lectura, escritura e insercion.
+* A continuacion, asignaremos los privilegios correspondientes a cada rol. Para el rol readapp, asignaremos el privilegio SELECT en todas las tablas de la base de datos appdb. Para el rol writeapp, asignaremos los privilegios SELECT, INSERT, UPDATE, y DELETE en todas las tablas de la misma base de datos.
+* Ahora, crearemos dos usuarios: reports y appuser. El usuario reports necesitara leer datos de la base de datos appdb para generar informes, mientras que appuser necesitara poder gestionar los datos dentro de la misma base de datos.
+* Finalmente, asignaremos los roles creados a los usuarios correspondientes. Esto les otorgará los privilegios asociados con cada rol.
+* Para asegurarnos de que los privilegios se han asignado correctamente, podemos verificar los privilegios de cada usuario.
