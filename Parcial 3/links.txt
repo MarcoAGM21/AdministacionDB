@@ -4,3 +4,6 @@ https://www.acens.com/comunicacion/wp-content/images/2013/10/replicacion-mysql-w
 https://blog.clicko.es/tutorial-replicacion-de-base-de-datos-mysql-master-to-slave/
 https://learn.microsoft.com/es-es/azure/mysql/single-server/how-to-data-in-replication
 https://www.icm.es/2021/05/19/sistema-de-replicacion-de-datos-con-sql-server/
+https://kinsta.com/es/blog/postgresql-replicacion/
+https://hevodata.com/learn/mysql-master-slave-replication/
+https://www.youtube.com/watch?v=nfsmnx24gxU
