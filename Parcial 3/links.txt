@@ -7,3 +7,11 @@ https://www.icm.es/2021/05/19/sistema-de-replicacion-de-datos-con-sql-server/
 https://kinsta.com/es/blog/postgresql-replicacion/
 https://hevodata.com/learn/mysql-master-slave-replication/
 https://www.youtube.com/watch?v=nfsmnx24gxU
+
+
+
+----------------mirror
+------xampp
+https://www.youtube.com/watch?v=GDrzYanwndY
+------posgres
+https://www.youtube.com/watch?v=SRY0f_GcxKc
