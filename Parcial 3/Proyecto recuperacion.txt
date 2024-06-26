@@ -1,0 +1,21 @@
+Proyecto recuperacion de Administarcion de base de datos
+
+Para poder aprovar la materia sea uno de los 3 parciales e lo siguiente:
+
+Crear una pagina web en la cual sea de un hostpital en este hospital tendremso diferentes sedes 
+cada sede contara con departamentos sea cirujanos, de turno, pediatras etc (minimo 6 areas),
+y tendra a sus pacientes ya sea con seguro o no en esta misma se tiene que hacer el registro de los 
+pacientes que esten llegando y en que categoria se encuentran de salud si es urgencias o no entre otras etc.
+
+minimo de registros
+30 Hospitales
+300(Medicos)
+pacientes(800)
+
+crear un login(si Reprobaste el primer parcial )
+
+En esta misma debe de crearce un pdf de cuando el paciente es dado de alta y cual es el monto que se le cobrara 
+si es que tiene seguro o no.(Si Reprobaste segundo parcial)
+
+Y este debe tener un perdil de cada doctor con su curriculum y experiencia y con una imagen de el medico que es(Si Reprobaste el tercel parcial)
+
